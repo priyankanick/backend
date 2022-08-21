@@ -25,8 +25,7 @@ function Day1() {
       sety(e.target.value)
     else
       setx(e.target.value)
-    
-
+      
   }
   var handelclear=()=>{
     setx(0)
